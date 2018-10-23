@@ -7,7 +7,7 @@ style-loader顺序没写对，打包报错问题
 
 
 #如何运行<br/>
-1.下载代码
-2.npm install
-3.webpack
-4.npm run server
+1.下载代码<br/>
+2.npm install<br/>
+3.webpack<br/>
+4.npm run server<br/>
