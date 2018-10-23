@@ -11,3 +11,6 @@ style-loader顺序没写对，打包报错问题
 2.npm install<br/>
 3.webpack<br/>
 4.npm run server<br/>
+
+打开浏览器：localhost:3000/<br/>
+出现Hello world!说明是对的，就可以开开心心的写React代码啦！
